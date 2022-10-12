@@ -1,0 +1,4 @@
+x= Konstantin
+y= Khaidukov
+z= 192
+print(f'My name is {x} Im {y} years old, and my height is {z} cm' )
