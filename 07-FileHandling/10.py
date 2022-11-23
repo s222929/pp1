@@ -1,0 +1,7 @@
+file = open("personal.txt", "w")
+file.write("Kostiantyn Khaidukov\n")
+file.write("CUE\n")
+file.write("Applied Informatics\n")
+file.close()
+file = open("personal.txt", "r")
+print(file.read())
